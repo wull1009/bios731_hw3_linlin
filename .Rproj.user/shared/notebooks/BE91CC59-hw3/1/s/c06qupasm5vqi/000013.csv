@@ -1,0 +1,8 @@
+"0",""
+"0","p2 <- ggplot(res, aes(x = method, y = time_sec)) +"
+"0","  geom_col() +"
+"0","  labs(x = NULL, y = ""Time (sec)"", title = ""Computation time by method"") +"
+"0","  theme_bw() +"
+"0","  theme(axis.text.x = element_text(angle = 30, hjust = 1))"
+"0",""
+"0","p2"

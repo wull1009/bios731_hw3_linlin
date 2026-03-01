@@ -1,0 +1,6 @@
+"0","res %>%"
+"0","  mutate("
+"0","    beta0_CI = sprintf(""[%.3f, %.3f]"", beta0_lwr, beta0_upr),"
+"0","    beta1_CI = sprintf(""[%.3f, %.3f]"", beta1_lwr, beta1_upr)"
+"0","  ) %>%"
+"0","  select(method, beta0_hat, beta0_CI, beta1_hat, beta1_CI, time_sec, iter)"
