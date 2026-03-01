@@ -6,6 +6,9 @@
 .RData
 .Ruserdata
 
+# data files (do not track)
+data/
+
 # RStudio user settings (always ignore)
 .Rproj.user/
 
