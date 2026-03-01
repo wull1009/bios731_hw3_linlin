@@ -1,2 +1,0 @@
-"0","dat <- simulate_logistic_data(n = 200, beta0 = 1, beta1 = 0.3, seed = 123)"
-"0","saveRDS(dat, file = here(""data"", ""sim_logistic_n200.rds""))"

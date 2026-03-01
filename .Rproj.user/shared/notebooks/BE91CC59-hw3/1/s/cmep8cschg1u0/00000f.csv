@@ -1,5 +1,0 @@
-"0","library(here)"
-"0","source(here(""source"", ""em_exp_censored.R""))"
-"0","source(here(""source"", ""problem4_run.R""))"
-"0","out4 <- run_problem4(save_prefix = ""problem4"", tol = 1e-10)"
-"0","out4$summary"

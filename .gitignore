@@ -1,0 +1,14 @@
+# macOS junk
+.DS_Store
+
+# R session / history files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio user settings (always ignore)
+.Rproj.user/
+
+# (optional) knitted outputs if you don't want them tracked
+# analysis/*.html
+# analysis/*.pdf
